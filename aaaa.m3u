@@ -3,7 +3,7 @@
 # Built with the CODECS.COM Playlist Builder
 
 #EXTINF:-1 tvg-id="Fox News Channel.us" tvg-logo="https://funland.neocities.org/FOXN.png" group-title="Everything Fox",Fox News Channel
-https://rtmp2.livenewsof.com/livenewsof.com/qJbteqvER7/5.m3u8
+https://velive.lat:443/live/ZONA53211/GEw8dv6hsU/423715.m3u8
 
 #EXTINF:-1 tvg-id="AMC.us" tvg-logo="https://binged.net/logos/net/amc.png" group-title="Entertainment",AMC
 http://23.239.31.26:8989/amc/index.m3u8
