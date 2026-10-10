@@ -1,0 +1,28 @@
+#EXTM3U x-tvg-url="https://www.open-epg.com/generate/SuptBKD8kS.xml" url-tvg="https://www.open-epg.com/generate/SuptBKD8kS.xml"
+#PLAYLIST:aaaa
+# Built with the CODECS.COM Playlist Builder
+
+#EXTINF:-1 tvg-id="Fox News Channel.us" tvg-logo="https://funland.neocities.org/FOXN.png" group-title="Everything Fox",Fox News Channel
+https://rtmp2.livenewsof.com/livenewsof.com/qJbteqvER7/5.m3u8
+
+#EXTINF:-1 tvg-id="AMC.us" tvg-logo="https://binged.net/logos/net/amc.png" group-title="Entertainment",AMC
+http://23.239.31.26:8989/amc/index.m3u8
+
+#EXTINF:-1 tvg-id="FOX.us" tvg-logo="https://funland.neocities.org/FOX.png" group-title="Entertainment",FOX
+https://t.freetv.fun/live/fox.m3u8
+
+#EXTINF:-1 tvg-id="ABC.us" tvg-logo="https://images.seeklogo.com/logo-png/26/2/abc-logo-png_seeklogo-269599.png" group-title="Entertainment",ABC
+https://t.freetv.fun/live/abc.m3u8
+
+#EXTINF:-1 tvg-id="CBS.us" tvg-logo="https://binged.net/logos/net/cbs.png" group-title="Big Brother",CBS
+https://loki.dulo.cc/play/k0dAtdJWPHR7Gq5GgO-e4NNhROdxuekg/Twbi9JfwVkmPjqAq.m3u8
+
+#EXTINF:-1 tvg-id="Fox Weather" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/1280px-Fox_Weather_logo.svg.png" group-title="Everything Fox",Fox Weather
+https://247wlive.foxweather.com/stream/index.m3u8
+
+#EXTINF:-1 group-title="development",amc plus test
+https://funland.neocities.org/amc+.m3u8
+
+#EXTINF:-1 group-title="development",Freeform Test
+https://zlive.st/embed/auto-freeform
+
