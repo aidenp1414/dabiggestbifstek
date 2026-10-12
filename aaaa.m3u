@@ -6,7 +6,7 @@
 https://velive.lat:443/live/ZONA53211/GEw8dv6hsU/423715.m3u8
 
 #EXTINF:-1 tvg-id="AMC.us" tvg-logo="https://binged.net/logos/net/amc.png" group-title="Entertainment",AMC
-http://line.prim01.com:80/live/c6492efd73/a01499bdb987/45445.m3u8
+http://tv14s.xyz:8080/live/CqUvA2C/q99I1o8zPp/18925.m3u8
 
 #EXTINF:-1 tvg-id="FOX.us" tvg-logo="https://funland.neocities.org/FOX.png" group-title="Entertainment",FOX
 https://velive.lat:443/live/ZONA53211/GEw8dv6hsU/410173.m3u8
@@ -20,7 +20,7 @@ http://tv14s.xyz:8080/live/CqUvA2C/q99I1o8zPp/13370.m3u8
 #EXTINF:-1 tvg-id="CBS.us" tvg-logo="https://binged.net/logos/net/cbs.png" group-title="Entertainment",CBS
 http://tv14s.xyz:8080/live/CqUvA2C/q99I1o8zPp/324604.m3u8
 
-#EXTINF:-1 tvg-id="syfy.us" tvg-logo="https://binged.net/logos/net/syfy.png" group-title="Entertainment",SYFY
+#EXTINF:-1 tvg-id="Syfy.us" tvg-logo="https://binged.net/logos/net/syfy.png" group-title="Entertainment",SYFY
 http://tv14s.xyz:8080/live/CqUvA2C/q99I1o8zPp/57464.m3u8
 
 #EXTINF:-1 tvg-id="Fox Weather" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/1280px-Fox_Weather_logo.svg.png" group-title="Everything Fox",Fox Weather
@@ -32,6 +32,9 @@ http://tv14s.xyz:8080/live/CqUvA2C/q99I1o8zPp/46690.m3u8
 #EXTINF:-1 tvg-id="FXX.us" tvg-logo="https://binged.net/logos/net/fxx.png" group-title="Entertainment",FXX
 http://tv14s.xyz:8080/live/CqUvA2C/q99I1o8zPp/46699.m3u8
 
-#EXTINF:-1 tvg-id="Discovery.us" tvg-logo="https://binged.net/logos/net/discovery.png" group-title="Entertainment",Discovery Channel
+#EXTINF:-1 tvg-id="Discovery Channel.us" tvg-logo="https://binged.net/logos/net/discovery.png" group-title="Entertainment",Discovery Channel
 http://tv14s.xyz:8080/live/CqUvA2C/q99I1o8zPp/46720.m3u8
+
+#EXTINF:-1 tvg-id="Bravo.us" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Bravo_2024.svg/1280px-Bravo_2024.svg.png" group-title="Entertainment",Bravo
+http://line.prim01.com:80/live/c6492efd73/a01499bdb987/45445.m3u8
 
