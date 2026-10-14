@@ -11,6 +11,9 @@ http://tv14s.xyz:8080/live/CqUvA2C/q99I1o8zPp/18925.m3u8
 #EXTINF:-1 tvg-id="FOX.us" tvg-logo="https://funland.neocities.org/FOX.png" group-title="Entertainment",FOX
 https://velive.lat:443/live/ZONA53211/GEw8dv6hsU/410173.m3u8
 
+#EXTINF:-1 tvg-id="TCM.us" tvg-logo=https://binged.net/logos/net/tcm.png" group-title="Entertainment",TCM
+https://velive.lat:443/live/ZONA53211/GEw8dv6hsU/410173.m3u8
+
 #EXTINF:-1 tvg-id="ABC.us" tvg-logo="https://images.seeklogo.com/logo-png/26/2/abc-logo-png_seeklogo-269599.png" group-title="Entertainment",ABC
 https://velive.lat:443/live/ZONA53211/GEw8dv6hsU/410243.m3u8
 
