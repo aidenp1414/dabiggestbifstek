@@ -41,7 +41,3 @@ http://tv14s.xyz:8080/live/CqUvA2C/q99I1o8zPp/46720.m3u8
 #EXTINF:-1 tvg-id="Bravo.us" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Bravo_2024.svg/1280px-Bravo_2024.svg.png" group-title="Entertainment",Bravo
 http://line.prim01.com:80/live/c6492efd73/a01499bdb987/45445.m3u8
 
-#EXTINF:0,Obsession
-#EXT-X-PLAYLIST-TYPE:VOD
-https://nebula.bright67.online/hls/d1992126-1cbe-43d1-b39f-07b2afbbe063/master.m3u8
-
