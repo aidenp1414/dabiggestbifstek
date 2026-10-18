@@ -8,10 +8,10 @@ https://velive.lat:443/live/ZONA53211/GEw8dv6hsU/423715.m3u8
 #EXTINF:-1 tvg-id="AMC.us" tvg-logo="https://binged.net/logos/net/amc.png" group-title="Entertainment",AMC
 http://tv14s.xyz:8080/live/CqUvA2C/q99I1o8zPp/18925.m3u8
 
-#EXTINF:-1 tvg-id="FOX.us" tvg-logo="https://funland.neocities.org/FOX.png" group-title="Entertainment",FOX
+#EXTINF:-1 tvg-id="FOX.us" tvg-logo="https://funland.neocities.org/FOX.png" group-title="Everything Fox",FOX
 https://velive.lat:443/live/ZONA53211/GEw8dv6hsU/410173.m3u8
 
-#EXTINF:-1 tvg-id="TCM.us" tvg-logo=https://binged.net/logos/net/tcm.png" group-title="Entertainment",TCM
+#EXTINF:-1 tvg-id="TCM.us" tvg-logo="https://binged.net/logos/net/tcm.png" group-title="Entertainment",TCM
 https://velive.lat:443/live/ZONA53211/GEw8dv6hsU/416641.m3u8
 
 #EXTINF:-1 tvg-id="ABC.us" tvg-logo="https://images.seeklogo.com/logo-png/26/2/abc-logo-png_seeklogo-269599.png" group-title="Entertainment",ABC
@@ -24,7 +24,7 @@ http://tv14s.xyz:8080/live/CqUvA2C/q99I1o8zPp/13370.m3u8
 http://tv14s.xyz:8080/live/CqUvA2C/q99I1o8zPp/324604.m3u8
 
 #EXTINF:-1 tvg-id="Syfy.us" tvg-logo="https://binged.net/logos/net/syfy.png" group-title="Entertainment",SYFY
-https://velive.lat:443/live/ZONA53211/GEw8dv6hsU/416637.m3u8
+http://tv14s.xyz:8080/live/CqUvA2C/q99I1o8zPp/57464.m3u8
 
 #EXTINF:-1 tvg-id="Fox Weather" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/1280px-Fox_Weather_logo.svg.png" group-title="Everything Fox",Fox Weather
 https://247wlive.foxweather.com/stream/index.m3u8
@@ -40,4 +40,7 @@ http://tv14s.xyz:8080/live/CqUvA2C/q99I1o8zPp/46720.m3u8
 
 #EXTINF:-1 tvg-id="Bravo.us" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Bravo_2024.svg/1280px-Bravo_2024.svg.png" group-title="Entertainment",Bravo
 http://line.prim01.com:80/live/c6492efd73/a01499bdb987/45445.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/ObsessionMovieLogo2025.png" group-title="Movies",Obsession
+https://nebula.bright67.online/hls/d1992126-1cbe-43d1-b39f-07b2afbbe063/master.m3u8
 
