@@ -6,7 +6,7 @@
 https://velive.lat:443/live/ZONA53211/GEw8dv6hsU/423715.m3u8
 
 #EXTINF:-1 tvg-id="AMC.us" tvg-logo="https://binged.net/logos/net/amc.png" group-title="Entertainment",AMC
-https://tvsen6.aynaott.com/amc/index.m3u8
+http://tv14s.xyz:8080/live/CqUvA2C/q99I1o8zPp/18925.m3u8
 
 #EXTINF:-1 tvg-id="FOX.us" tvg-logo="https://funland.neocities.org/FOX.png" group-title="Everything Fox",FOX
 https://velive.lat:443/live/ZONA53211/GEw8dv6hsU/410173.m3u8
@@ -15,7 +15,7 @@ https://velive.lat:443/live/ZONA53211/GEw8dv6hsU/410173.m3u8
 https://velive.lat:443/live/ZONA53211/GEw8dv6hsU/416641.m3u8
 
 #EXTINF:-1 tvg-id="ABC.us" tvg-logo="https://images.seeklogo.com/logo-png/26/2/abc-logo-png_seeklogo-269599.png" group-title="Entertainment",ABC
-http://tv14s.xyz:8080/live/CqUvA2C/q99I1o8zPp/22990.m3u8
+https://velive.lat:443/live/ZONA53211/GEw8dv6hsU/410243.m3u8
 
 #EXTINF:-1 tvg-id="Freeform.us" tvg-logo="https://binged.net/logos/net/freeform.png" group-title="Entertainment",Freeform
 http://tv14s.xyz:8080/live/CqUvA2C/q99I1o8zPp/13370.m3u8
@@ -40,4 +40,16 @@ http://tv14s.xyz:8080/live/CqUvA2C/q99I1o8zPp/46720.m3u8
 
 #EXTINF:-1 tvg-id="Bravo.us" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Bravo_2024.svg/1280px-Bravo_2024.svg.png" group-title="Entertainment",Bravo
 http://line.prim01.com:80/live/c6492efd73/a01499bdb987/45445.m3u8
+
+#EXTINF:-1 tvg-logo="https://binged.net/logos/net/cbs.png" group-title="Backup",WWAY CBS
+http://nocable.cc:8080/live/7ccCWP/745035/324604.m3u8
+
+#EXTINF:-1 tvg-logo="https://binged.net/logos/net/amc.png" group-title="Backup",AMC
+http://nocable.cc:8080/live/7ccCWP/745035/18925.m3u8
+
+#EXTINF:-1 tvg-logo="https://binged.net/logos/net/abc.png" group-title="Backup",WWAY ABC
+http://nocable.cc:8080/live/7ccCWP/745035/22990.m3u8
+
+#EXTINF:-1 tvg-logo="https://funland.neocities.org/FOXN.png" group-title="Backup",Fox News Channel
+http://nocable.cc:8080/live/7ccCWP/745035/1818.m3u8
 
